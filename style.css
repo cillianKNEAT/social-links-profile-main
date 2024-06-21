@@ -27,7 +27,8 @@ section{
 .container {    
     background-color: var(--darkGrey);
     padding: 40px;
-    width: 384px;
+    width: 100%;
+    max-width: 384px;
     color: white;
     text-align: center;
     border-radius:12px;
